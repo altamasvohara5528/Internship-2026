@@ -1,7 +1,0 @@
-{
-  "name": "internship-day-4",
-  "version": "1.0.0",
-  "private": true,
-  "type": "module",
-  "description": "Day 4 JavaScript practice: modules, event loop, promises and fetch"
-}
